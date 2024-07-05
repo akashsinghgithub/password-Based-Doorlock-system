@@ -1,10 +1,11 @@
 # password-Based-Doorlock-system
-This code run on proteus design suit 
-<video width="630" height="300" src="https://github.com/akashsinghgithub/password-Based-Doorlock-system/blob/7ef62125180265e83040bd247977a1b2202820ae/My%20project%20on%20door%20lock%20system.mp4"></video>
+This code run on proteus design suit
+
+[![Watch the video](https://raw.githubusercontent.com/akashsinghgithub/password-Based-Doorlock-system/blob/ceac82c2cede9114c33bd918ac84517f2215bca9/basic-structure.png)](https://raw.githubusercontent.com/akashsinghgithub/password-Based-Doorlock-system/blob/ceac82c2cede9114c33bd918ac84517f2215bca9/basic-structure.png/Working_video.mp4)
 
 ## Basic structure of connections
 ![alt text](https://github.com/akashsinghgithub/password-Based-Doorlock-system/blob/ceac82c2cede9114c33bd918ac84517f2215bca9/basic-structure.png)
-
+My project on door lock system.mp4
 
 ## running simulation
 ![alt text](https://github.com/akashsinghgithub/password-Based-Doorlock-system/blob/ceac82c2cede9114c33bd918ac84517f2215bca9/program-running.png)
